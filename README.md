@@ -33,3 +33,11 @@ lab5: file system
 
 
 lab6: pipe and shell
+
+![init](https://user-images.githubusercontent.com/12913794/28102213-765c13b0-6700-11e7-99f6-916f88adb63b.png)
+
+![ls](https://user-images.githubusercontent.com/12913794/28102218-799ecbc6-6700-11e7-93e8-dd884777c7d8.png)
+
+![lscat](https://user-images.githubusercontent.com/12913794/28102220-7b25f898-6700-11e7-8914-394a345a1b43.png)
+
+![cat](https://user-images.githubusercontent.com/12913794/28102222-7da5eefc-6700-11e7-966c-43a7555a6620.png)
