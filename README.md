@@ -1,6 +1,6 @@
-# BUAA-OperationSystems
+# BUAA-OperatingSystems
 A rudimental operation system with a tiny shell based on mips32 architecture.
-Finished as a final project for the course 'Operation Systems' in Beihang University.
+Finished as a final project for the course 'Operating Systems' in Beihang University.
 
 Make first. 
 
